@@ -1,4 +1,5 @@
 export function add(a, b) {
+    console.log('another message');
     return a + b;
 }
 
